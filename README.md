@@ -3,8 +3,7 @@
 📧 vitoriaclarissa221@gmail.com  
 
 🛠️ Tech Stack
-Languages: Python | C++ | JavaScript | SQL
-Embedded: Arduino ESP32 Sensor Fusion Circuit Design
+Languages: Python | C++ | JavaScript
 
 🚀 Projects<br>
 🤖 OBR Robotics
