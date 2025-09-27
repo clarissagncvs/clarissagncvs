@@ -1,9 +1,9 @@
 ## Hello! I´m Clarissa Gonçalves
-**Backend Developer | Embedded Systems | Python/C++**  
+**Backend Developer | Embedded Systems | Python/C++**/Java  
 📧 vitoriaclarissa221@gmail.com  
 
 🛠️ Tech Stack
-Languages: Python | C++ | JavaScript
+Languages: Python | C++ | Java
 
 🚀 Projects<br>
 🤖 OBR Robotics
@@ -11,7 +11,7 @@ Led team developing autonomous robot with Arduino/C++
 🚀 OBAFOG Rocket System
 ESP32 firmware in C++ for precision launch control<br>
 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Java Backend Development
 - 😄 Pronouns: She/Her
 - 📚 I'm currently completing my high school education at IFRN (Federal Institute of Rio Grande do Norte) with an integrated technical program in Computer Science.
   
