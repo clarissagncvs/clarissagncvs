@@ -9,12 +9,7 @@ ESP32 firmware in C++ for precision launch control<br>
 - 🌱 I’m currently learning Java Backend Development & Spring Framework
 - 😄 Pronouns: She/Her
 - 📚 I'm currently completing my high school education at IFRN (Federal Institute of Rio Grande do Norte) with an integrated technical program in information technology (IT).
-  
-##
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clarissagncvs&theme=synthwave&show_icons=true&bg_color=1e1e2e&border_color=bd93f9&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-##
 
 <!-- Tech Badges Row -->
 <div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
