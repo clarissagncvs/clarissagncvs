@@ -2,9 +2,6 @@
 **Backend Developer | Python/C++**/Java  
 📧 clarissagncvs@gmail.com  
 
-🛠️ Tech Stack
-Languages: Python | C++ | Java
-
 🚀 Projects<br>
 🚀 OBAFOG Rocket System
 ESP32 firmware in C++ for precision launch control<br>
