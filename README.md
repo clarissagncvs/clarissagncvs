@@ -7,7 +7,6 @@
 ESP32 firmware in C++ for precision launch control<br>
 
 - 🌱 I’m currently learning Java Backend Development & Spring Framework
-- 😄 Pronouns: She/Her
 - 📚 I'm currently completing my high school education at IFRN (Federal Institute of Rio Grande do Norte) with an integrated technical program in information technology (IT).
 
 
