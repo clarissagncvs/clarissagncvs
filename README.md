@@ -1,7 +1,7 @@
 ## Hello! I´m Clarissa Gonçalves
 **Backend Developer | Python/Django/C++/Java**  
 clarissagncvs@gmail.com  
-
+##
 
 ### Front-end
 <div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
@@ -46,6 +46,10 @@ clarissagncvs@gmail.com
 
 ### DevOps & Tools
 <div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
   <!-- GitHub Actions -->
   <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
