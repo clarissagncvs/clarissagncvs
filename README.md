@@ -1,13 +1,6 @@
 ## Hello! I´m Clarissa Gonçalves
-**Backend Developer | Python/C++**/Java  
-📧 clarissagncvs@gmail.com  
-
-🚀 Projects<br>
-🚀 OBAFOG Rocket System
-ESP32 firmware in C++ for precision launch control<br>
-
-- 🌱 I’m currently learning Java Backend Development & Spring Framework
-- 📚 I'm currently completing my high school education at IFRN (Federal Institute of Rio Grande do Norte) with an integrated technical program in information technology (IT).
+**Backend Developer | Python/Django/C++/Java**  
+clarissagncvs@gmail.com  
 
 
 <!-- Tech Badges Row -->
@@ -25,6 +18,11 @@ ESP32 firmware in C++ for precision launch control<br>
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   </a>
   
   <!-- Java -->
@@ -57,4 +55,3 @@ ESP32 firmware in C++ for precision launch control<br>
     <img src="https://img.shields.io/badge/GitHub-clarissagncvs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
-
