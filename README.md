@@ -27,13 +27,6 @@ clarissagncvs@gmail.com
   <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   </a>
-
-  <!-- Mostra a versão normal (clara) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clarissagncvs/clarissagncvs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clarissagncvs/clarissagncvs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/clarissagncvs/clarissagncvs/output/github-contribution-grid-snake.svg">
-</picture>
   
   <!-- Java -->
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
@@ -82,3 +75,10 @@ clarissagncvs@gmail.com
     <img src="https://img.shields.io/badge/GitHub-clarissagncvs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
+
+  <!-- Mostra a versão normal (clara) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clarissagncvs/clarissagncvs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clarissagncvs/clarissagncvs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/clarissagncvs/clarissagncvs/output/github-contribution-grid-snake.svg">
+</picture>
