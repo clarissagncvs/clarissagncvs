@@ -3,7 +3,7 @@
 clarissagncvs@gmail.com  
 
 
-<!-- Tech Badges Row -->
+### Front-end
 <div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
@@ -14,7 +14,10 @@ clarissagncvs@gmail.com
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   </a>
-  
+</div>
+
+### Back-end
+<div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -33,6 +36,19 @@ clarissagncvs@gmail.com
   <!-- C++ -->
   <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>
+</div>
+
+### DevOps & Tools
+<div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
+  <!-- GitHub Actions -->
+  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
   </a>
 </div>
 
